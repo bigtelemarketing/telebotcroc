@@ -34,7 +34,7 @@ categorie = {
     ],
     "📦 Smartphone a Rate": [
         {
-            "titolo": "iPhone 13 128GB con WindTre a 19,99€/mese",
+            "titolo": "iPhone 16 128GB con WindTre a 19,99€/mese",
             "link": "https://www.bigtelemarketing.com/rate/smartphone-windtre",
             "note": "Con offerta mobile attiva"
         }
