@@ -15,20 +15,20 @@ categorie = {
             "note": "Minuti, SMS illimitati e 50GB"
         },
         {
-            "titolo": "Vodafone Special 100GB a 9,99€",
-            "link": "https://www.bigtelemarketing.com/offerte/vodafone-special",
-            "note": "Per clienti Iliad e virtuali"
+            "titolo": "OPTIMA Special 100GB a 4,95€",
+            "link": "https://www.bigtelemarketing.com",
+            "note": "SIM GRATIS"
         }
     ],
     "🏠 Internet Casa": [
         {
             "titolo": "Fastweb Fibra 2.5Gbps a 22,95€/mese",
             "link": "https://www.bigtelemarketing.com/offerte/fastweb-casa",
-            "note": "Router incluso - attivazione gratuita"
+            "note": "Router incluso - attivazione gratuita SIM GRATIS"
         },
         {
-            "titolo": "TIM Premium Fibra 24,90€",
-            "link": "https://www.bigtelemarketing.com/offerte/tim-fibra",
+            "titolo": "TIM-WINDTRE-SKY  Fibra 24,90€",
+            "link": "https://www.bigtelemarketing.com",
             "note": "Velocità fino a 1Gbps"
         }
     ],
@@ -36,12 +36,12 @@ categorie = {
         {
             "titolo": "iPhone 16 128GB con WindTre a 19,99€/mese",
             "link": "https://www.bigtelemarketing.com/rate/smartphone-windtre",
-            "note": "Con offerta mobile attiva"
+            "note": "Con offerta mobile attiva  SIM GRATIS"
         }
     ],
     "⚡ Luce & Gas": [
         {
-            "titolo": "Enel Energia Tutto Compreso a 85€/mese",
+            "titolo": "Enel-ACEA-IREN Energia E GAS SCONTO DEL 30% IN BOLLETTA",
             "link": "https://www.bigtelemarketing.com/energia/enel",
             "note": "Luce + Gas flat - IVA inclusa"
         },
