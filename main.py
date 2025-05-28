@@ -6,16 +6,16 @@ from datetime import datetime
 BOT_TOKEN = '7996855061:AAFz6yh7CDhtRIRkhA0vSXjBJkcTIOBHXrE'
 CHANNEL_USERNAME = '@consulenteperilrisparmio'
 
-# Categorie promozionali
+# Tutte le offerte divise per categoria
 categorie = {
     "📱 Offerte SIM Mobile": [
         {
-            "titolo": "TIM Power 50GB a 7,99€",
+            "titolo": "TIM Power 100GB a 7,99€",
             "link": "https://www.bigtelemarketing.com/offerte/tim-power",
-            "note": "Minuti, SMS illimitati e 50GB"
+            "note": "Minuti, SMS illimitati e 100GB"
         },
         {
-            "titolo": "OPTIMA Special 100GB a 4,95€",
+            "titolo": "Optima mobile Special minuti illimitati 100GB a 4,95€",
             "link": "https://www.bigtelemarketing.com",
             "note": "SIM GRATIS"
         }
@@ -24,11 +24,11 @@ categorie = {
         {
             "titolo": "Fastweb Fibra 2.5Gbps a 22,95€/mese",
             "link": "https://www.bigtelemarketing.com/offerte/fastweb-casa",
-            "note": "Router incluso - attivazione gratuita SIM GRATIS"
+            "note": "Router incluso - attivazione gratuita"
         },
         {
-            "titolo": "TIM-WINDTRE-SKY  Fibra 24,90€",
-            "link": "https://www.bigtelemarketing.com",
+            "titolo": "TIM Premium Fibra 24,90€",
+            "link": "https://www.bigtelemarketing.com/offerte/tim-fibra",
             "note": "Velocità fino a 1Gbps"
         }
     ],
@@ -36,14 +36,14 @@ categorie = {
         {
             "titolo": "iPhone 16 128GB con WindTre a 19,99€/mese",
             "link": "https://www.bigtelemarketing.com/rate/smartphone-windtre",
-            "note": "Con offerta mobile attiva  SIM GRATIS"
+            "note": "Con offerta mobile attiva"
         }
     ],
     "⚡ Luce & Gas": [
         {
-            "titolo": "Enel-ACEA-IREN Energia E GAS SCONTO DEL 30% IN BOLLETTA",
+            "titolo": "Enel.ACEA.A2A Risparmia in bolletta il 30%",
             "link": "https://www.bigtelemarketing.com/energia/enel",
-            "note": "Luce + Gas flat - IVA inclusa"
+            "note": "Luce + Gas flat"
         },
         {
             "titolo": "Iren Revolution Luce a 0,12€/kWh",
@@ -53,14 +53,14 @@ categorie = {
     ],
     "🛒 Offerte dallo Shop": [
         {
-            "titolo": "Smart TV VOV 32'' HD Android",
+            "titolo": "Smart TV VOV 32'' Android",
             "link": "https://www.bigtelemarketing.com/shop/p/smart-tv-vov-32",
             "note": "Solo 109,99€ invece di 149,99€"
         },
         {
-            "titolo": "Macchina Caffè Faber a Cialde",
+            "titolo": "Macchina Caffè Faber",
             "link": "https://www.bigtelemarketing.com/shop/p/macchina-caffe-faber",
-            "note": "In offerta a 109,99€"
+            "note": "Offerta a 109,99€"
         },
         {
             "titolo": "Xiaomi Redmi 14C 8+256GB",
