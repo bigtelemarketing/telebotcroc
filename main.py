@@ -11,11 +11,14 @@ categorie = {
     "📱 Offerte SIM Mobile": [
         {
             "titolo": "TIM Power 100GB a 7,99€",
+            "titolo": "Fibra a soli 22.99€ al mese",
+            "titolo": "Smartphone a 2€ al mese",
             "link": "https://www.bigtelemarketing.com/offerte/tim-power",
-            "note": "Minuti, SMS illimitati e 100GB"
+            "note": "Minuti, SMS illimitati e 100GB sim gratis"
         },
         {
             "titolo": "Optima mobile Special minuti illimitati 100GB a 4,95€",
+            "titolo": "Optima mobile Special minuti illimitati 250GB a 6,95€",
             "link": "https://www.bigtelemarketing.com",
             "note": "SIM GRATIS"
         }
@@ -27,7 +30,7 @@ categorie = {
             "note": "Router incluso - attivazione gratuita"
         },
         {
-            "titolo": "TIM Premium Fibra 24,90€",
+            "titolo": "TIM Premium Fibra 22,90€",
             "link": "https://www.bigtelemarketing.com/offerte/tim-fibra",
             "note": "Velocità fino a 1Gbps"
         }
@@ -55,12 +58,12 @@ categorie = {
         {
             "titolo": "Smart TV VOV 32'' Android",
             "link": "https://www.bigtelemarketing.com/shop/p/smart-tv-vov-32",
-            "note": "Solo 109,99€ invece di 149,99€"
+            "note": "Solo 99,99€ invece di 149,99€"
         },
         {
             "titolo": "Macchina Caffè Faber",
             "link": "https://www.bigtelemarketing.com/shop/p/macchina-caffe-faber",
-            "note": "Offerta a 109,99€"
+            "note": "Offerta a 99,99€"
         },
         {
             "titolo": "Xiaomi Redmi 14C 8+256GB",
